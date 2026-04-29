@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-Ce projet consiste à développer un modèle de **Machine Learning** permettant de prédire l'état d'un véhicule en vente en fonction des variables de marque, année de mise en circulation, la transmission(Manuel, automatique), le quartier où se vend le véhicule et son prix.
+Les achats de véhicules se font au quotidien. Les acheteurs tout comme les vendeurs doivent être rassuré de l'état du véhicule qu'ils achètent pour certains et/ou qu'ils vendent pour d'autres. Dans ce projet, nous avons développer un modèle de **Machine Learning** permettant de prédire l'état d'un véhicule en vente en fonction des variables telles que la marque, l'année de mise en circulation, la transmission (Manuel, automatique), le quartier où se vend le véhicule et son prix.
 
 ---
 
